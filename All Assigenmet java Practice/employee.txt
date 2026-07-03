@@ -1,0 +1,6 @@
+Abdullah  , 50000 , MEDIUM
+Abdullah Abdinasir Mohamed , 75000 , HIGH
+Yasmin Gurey , 65000 , MEDIUM
+Zamzam Abdinasir , 76000 , HIGH
+Abdullahi , 50000 , MEDIUM
+Abdalla , 5999 , LOW

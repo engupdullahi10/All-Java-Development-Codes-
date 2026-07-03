@@ -1,0 +1,4 @@
+Abdullahi , Java  , 16 , 12 , 75 , 3750
+Abdullahi , Java , 15 , 14 , 1 , 0
+Abdalla , Python , 17 , 14 , 3 , 0
+Zamzam Gurey , C++ , 25 , 14 , 11 , 1100
