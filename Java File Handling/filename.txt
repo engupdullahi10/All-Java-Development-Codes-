@@ -1,0 +1,8 @@
+Hello! Eng Abdullahi , Welcome to java file handling
+I'm Eng Abdullahi and junior Software engineering in java programming.
+Java File Handling allows you to create, read, write, update, and delete files on your computer using Java programs.
+Aisha Abdinasir Mohamed
+20
+2670
+Java Programming
+95

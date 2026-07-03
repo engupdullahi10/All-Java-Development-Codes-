@@ -1,0 +1,4 @@
+Name | ID  | TotalMarks | Average |  Grade |  Result |
+Abdullahi  | L1S25BSSE0026 | 485 | 69.28571428571429 | D |  | Pass
+Name | ID | TotalMarks | Average | Grade | Result
+Aisha | 0026 | 507 | 72.42857142857143 | C |  | Pass
