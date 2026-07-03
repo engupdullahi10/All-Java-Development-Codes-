@@ -1,0 +1,4 @@
+Student name: Hafsa Shacuure Ahmed
+Student ID: L1S25BSSE0026
+Student age: 20
+Student marks: 83

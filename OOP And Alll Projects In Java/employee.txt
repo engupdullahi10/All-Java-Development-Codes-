@@ -1,0 +1,12 @@
+Employee name: Eng Abdullah
+Employee ID: 101
+Employee Salary: 105
+Employee name: Drs Zamzam
+Employee ID: 102
+Employee Salary: 25000
+Employee name: Eng Mucad
+Employee ID: 105
+Employee Salary: 50
+Employee name: Mss Hafsa
+Employee ID: 1022
+Employee Salary: 250300
