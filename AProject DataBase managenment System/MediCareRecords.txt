@@ -1,0 +1,29 @@
+Patient Registered: Hafsa, ID: P001, Disease: Fever, Blood Group: O+
+
+Doctor Added: Dr Ahmed Abdullah, ID: D101, Specialization: Cardiologist
+
+Appointment Scheduled: ID: 1001, Date: 11/07/2026, Time: 11:30 PM
+
+Bill Generated: Bill ID: 102, Total Amount: 4500
+
+Payment Method: Card Payment
+
+Patient Registered: Hafsa, ID: P001, Disease: Fever, Blood Group: O+
+
+Doctor Added: Dr Ahmed Abdullah, ID: D101, Specialization: Cardiologist
+
+Appointment Scheduled: ID: 1001, Date: 11/07/2026, Time: 11:30 PM
+
+Bill Generated: Bill ID: 102, Total Amount: 4500
+
+Payment Method: Card Payment
+
+Patient Registered: Hafsa, ID: P001, Disease: Fever, Blood Group: O+
+
+Doctor Added: Dr Ahmed Abdullah, ID: D101, Specialization: Cardiologist
+
+Appointment Scheduled: ID: 1001, Date: 11/07/2026, Time: 11:30 PM
+
+Bill Generated: Bill ID: 102, Total Amount: 4500
+
+Payment Method: Card Payment
